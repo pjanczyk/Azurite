@@ -10,6 +10,7 @@ General:
 - Fix building failure on Node 22 platform.
 - Fix * IfMatch for non-existent resource not throwing 412 Precondition Failed
 - Update Node 22 Alpine base image from 3.21 to 3.23 to address critical CVEs
+- Update axios from 0.27.0 to 0.32.0 and many transitive dependencies to address critical CVEs
 
 ## 2025.07 Version 3.35.0
 
